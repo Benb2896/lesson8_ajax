@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 07, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ben Buchalter)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Got information from another website through an API and displayed it in our own formatting.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://github.com/Benb2896/lesson8_ajax)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Used Ajax to do an HTTP request)
+2. (Used Jquery to dynamically edit web page content)
+3. (Went through the contents of a Javascript array)
